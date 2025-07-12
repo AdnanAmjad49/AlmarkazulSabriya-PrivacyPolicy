@@ -4,7 +4,7 @@
 **App Category:** Books & Reading  
 **Developer Contact:** almarkaz.alsabriya.92@gmail.com
 
-Welcome to #Almarkaz ul Sabriya#. This privacy policy describes how our app operates and how we handle user data. We are committed to respecting and protecting your privacy.
+Welcome to **Almarkaz ul Sabriya**. This privacy policy describes how our app operates and how we handle user data. We are committed to respecting and protecting your privacy.
 
 ---
 
